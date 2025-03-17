@@ -1,5 +1,5 @@
 from math import cos,sin,sqrt,pi
-import opensees.openseespy as model
+import xara as model
 
 def rotPanelZone2D(eleID, nodeR, nodeC, E, Fy, dc, bf_c, tf_c, tp, db, Ry, As):
     """

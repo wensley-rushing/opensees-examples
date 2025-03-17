@@ -1,5 +1,5 @@
 from math import cos,sin,sqrt,pi
-import opensees.openseespy as ops
+import xara as ops
 # --------------------------------------------------------------------------------------------------
 # build a section
 #                     Silvia Mazzoni & Frank McKenna, 2006

@@ -5,7 +5,7 @@ from veux.canvas.gltf import GltfLibCanvas
 from GirderSection import GirderSection, inch, ft, torsion, sect2gmsh
 
 def mesh2model(nodes, cells):
-    import opensees.openseespy as ops
+    import xara as ops
 
     for i, node in enumerate(nodes):
         pass

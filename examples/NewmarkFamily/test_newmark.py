@@ -1,6 +1,6 @@
 from math import cos,sin,sqrt,pi, isnan
 from itertools import product
-import opensees.openseespy as ops
+import xara as ops
 
 # Newmark Integrators - Linear & Nonlinear Examples
 

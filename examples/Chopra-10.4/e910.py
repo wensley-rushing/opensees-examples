@@ -1,7 +1,7 @@
 
 
 def create_model_1d():
-    import opensees.openseespy as ops
+    import xara as ops
 
     k = 60
     m = 2

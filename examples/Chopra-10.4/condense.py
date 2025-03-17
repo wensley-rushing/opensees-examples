@@ -1,5 +1,5 @@
 import numpy as np 
-import opensees.openseespy as ops 
+import xara as ops 
 
 def condense(K, ic=None, model=None, tol=0.0):
     N = K.shape[0]

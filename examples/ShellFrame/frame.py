@@ -7,7 +7,7 @@ from pathlib import Path
 
 import numpy as np
 
-import opensees.openseespy as ops
+import xara as ops
 
 
 class ElasticSection:

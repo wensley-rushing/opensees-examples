@@ -28,7 +28,7 @@
 # In[1]:
 
 
-import opensees.openseespy as ops
+import xara as ops
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd

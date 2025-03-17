@@ -1,4 +1,4 @@
-import opensees.openseespy as ops
+import xara as ops
 #import openseespy.opensees as ops
 
 E = 29000

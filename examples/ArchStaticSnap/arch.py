@@ -1,5 +1,5 @@
 import numpy as np
-import opensees.openseespy
+import xara
 
 # Create the model
 def arch_model():

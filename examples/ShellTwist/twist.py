@@ -1,6 +1,6 @@
 
 import veux
-import opensees.openseespy as ops
+import xara as ops
 import shps.rotor
 
 

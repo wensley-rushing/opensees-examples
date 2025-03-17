@@ -5,7 +5,7 @@
 # Pinned-pinned column with uniform lateral load of 0.200 kip/ft and varying axial load
 #
 import numpy as np
-import opensees.openseespy as ops
+import xara as ops
 from opensees.units.iks import ft, ksi
 
 def check_column(model, Mbench, Dbench):

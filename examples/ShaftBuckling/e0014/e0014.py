@@ -5,7 +5,7 @@ import os
 import veux
 from veux.motion import Motion
 from shapes import Channel
-import opensees.openseespy as ops
+import xara as ops
 
 import matplotlib.pyplot as plt
 try:

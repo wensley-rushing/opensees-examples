@@ -1,5 +1,5 @@
 
-import opensees.openseespy as ops
+import xara as ops
 # --------------------------------------------------------------------------------------------------
 # build a section
 #              Silvia Mazzoni & Frank McKenna, 2006

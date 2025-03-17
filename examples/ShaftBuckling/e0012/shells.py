@@ -2,7 +2,7 @@
 #         Pacific Earthquake Engineering Research Center
 #
 import veux
-import opensees.openseespy as ops
+import xara as ops
 from opensees.helpers import find_nodes, find_node
 
 

@@ -2,7 +2,7 @@ import sys
 from pathlib import Path
 import numpy as np
 from numpy import cos,sin,sqrt,pi,exp
-import opensees.openseespy
+import xara
 
 # Linear Elastic SINGLE DOF Model Transient Analysis
 

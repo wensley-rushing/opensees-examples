@@ -11,7 +11,7 @@ import time
 import sys
 import numpy as np
 import matplotlib.pyplot as plt
-import opensees.openseespy as ops
+import xara as ops
 
 # +===============================================================================+
 # |                              OpenSees Header                                  |

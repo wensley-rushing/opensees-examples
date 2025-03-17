@@ -1,7 +1,7 @@
 import sdof
 import numpy as np
 
-import opensees.openseespy as op
+import xara as op
 FREE  = 0
 FIXED = 1
 X, Y, RZ = 1, 2, 3

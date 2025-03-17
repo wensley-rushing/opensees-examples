@@ -77,7 +77,7 @@ Ground Motion records provided as arguments.
 import sys
 from pathlib import Path
 
-import opensees.openseespy as op
+import xara as op
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt

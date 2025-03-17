@@ -1,6 +1,6 @@
 from math import sqrt
 from shps.shapes import WideFlange, Rectangle
-import opensees.openseespy as ops
+import xara as ops
 import matplotlib.pyplot as plt
 try:
     plt.style.use("typewriter")

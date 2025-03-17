@@ -18,7 +18,7 @@
 #
 
 # import the OpenSees Python module
-import opensees.openseespy as ops
+import xara as ops
 import opensees.units.iks as units
 import math
 import sys

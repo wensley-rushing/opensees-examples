@@ -3,7 +3,7 @@
 #
 import veux
 from shps.shapes import Rectangle
-import opensees.openseespy as ops
+import xara as ops
 import matplotlib.pyplot as plt
 try:
     pass

@@ -4,7 +4,7 @@ from steel import wide_flange
 
 import numpy as np
 
-import opensees.openseespy as ops
+import xara as ops
 
 import numpy as np
 import pandas as pd

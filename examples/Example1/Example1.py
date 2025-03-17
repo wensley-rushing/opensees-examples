@@ -14,7 +14,7 @@
 # Date: June 2017
 
 # import the OpenSeesPy Compatiblity module.
-import opensees.openseespy as ops
+import xara as ops
 
 # ------------------------------
 # Start of model generation

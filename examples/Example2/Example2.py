@@ -15,7 +15,7 @@
 #  Moment-Curvature Analysis in OpenSees
 
 # import the OpenSees Python module
-import opensees.openseespy as ops
+import xara as ops
 
 def moment_curvature(model, secTag, axialLoad, maxK, numIncr):
     """

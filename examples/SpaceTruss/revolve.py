@@ -14,7 +14,7 @@ Koohestani, K., and A. Kaveh.
    Finite Elements in Analysis and Design 46, no. 10 (October 2010): 943–48. https://doi.org/10.1016/j.finel.2010.06.009.
 """
 from math import pi, sin, cos, sqrt
-import opensees.openseespy as ops
+import xara as ops
 
 def create_dome(design: str, *args, **kwds):
     return _DOMES[design](*args, **kwds)

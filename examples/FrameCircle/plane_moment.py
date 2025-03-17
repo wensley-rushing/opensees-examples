@@ -53,7 +53,7 @@ def create_prism(length:    float,
                  divisions: int = 1,
                  rotation = None, 
                  ndm=3):
-    import opensees.openseespy as ops
+    import xara as ops
 
     L  = length
 

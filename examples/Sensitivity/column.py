@@ -1,4 +1,4 @@
-import opensees.openseespy as ops
+import xara as ops
 
 # Input [N, m, kg, sec]
 L = 5.0              # Total length of cantilever

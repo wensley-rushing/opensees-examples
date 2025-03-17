@@ -1,5 +1,5 @@
 # Import the opensees package for finite element analysis
-import opensees.openseespy as ops
+import xara as ops
 # Import some additional dependencies
 import matplotlib.pyplot as plt
 import numpy as np

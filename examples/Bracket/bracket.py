@@ -1,6 +1,6 @@
 import sys
 import json
-import opensees.openseespy as ops
+import xara as ops
 
 def run(filename):
     with open(filename, "r") as f:

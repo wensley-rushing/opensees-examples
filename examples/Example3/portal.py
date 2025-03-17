@@ -14,7 +14,7 @@
 #   pushover_analysis(model, H) - perform pushover analysis
 #   dynamic_analysis(model) - perform dynamic analysis
 #
-import opensees.openseespy as ops
+import xara as ops
 
 def eigen(model):
     from scipy.linalg import eig

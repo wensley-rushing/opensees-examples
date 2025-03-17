@@ -4,7 +4,7 @@ import veux
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-import opensees.openseespy as ops
+import xara as ops
 from shps.shapes import Channel, Rectangle, WideFlange
 
 def _test_opensees(shape, section, center=None):

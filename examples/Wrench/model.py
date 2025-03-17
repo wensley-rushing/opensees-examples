@@ -36,7 +36,7 @@
 # Chrystal Chern and Claudio Perez
 #
 import veux
-import opensees.openseespy as ops
+import xara as ops
 import numpy as np
 
 a = np.arctan(1/5)

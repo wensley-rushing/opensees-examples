@@ -8,7 +8,7 @@ All units are in mm, KN, and seconds.
 import math
 from pathlib import Path
 
-import opensees.openseespy as ops
+import xara as ops
 
 def main():
 

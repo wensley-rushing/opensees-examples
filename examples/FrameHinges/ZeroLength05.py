@@ -1,7 +1,7 @@
 
 import sees
 from math import cos,sin,sqrt,pi
-import opensees.openseespy as ops
+import xara as ops
 # ZeroLength5.tcl
 # CE 221 Spring 1999 Midterm Problem
 #

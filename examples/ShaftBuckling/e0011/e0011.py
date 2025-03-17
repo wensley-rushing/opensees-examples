@@ -6,7 +6,7 @@ import sys
 import veux
 from veux.motion import Motion
 from shps.shapes import WideFlange
-import opensees.openseespy as ops
+import xara as ops
 
 # External libraries
 import numpy as np

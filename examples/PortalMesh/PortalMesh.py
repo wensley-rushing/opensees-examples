@@ -1,4 +1,4 @@
-import opensees.openseespy as ops
+import xara as ops
 
 H = 360
 L = 144

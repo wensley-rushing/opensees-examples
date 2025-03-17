@@ -1,5 +1,5 @@
 # import the OpenSees Python module
-import opensees.openseespy as ops
+import xara as ops
 from opensees.helpers import find_node, find_nodes
 from veux.stress import node_average
 

@@ -3,7 +3,7 @@ import numpy as np
 
 
 # import the openseespy interface which contains the "Model" class
-import opensees.openseespy as ops
+import xara as ops
 import opensees.section
 import quakeio
 

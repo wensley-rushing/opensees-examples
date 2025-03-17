@@ -1,6 +1,6 @@
 import numpy as np
 import veux
-import opensees.openseespy
+import xara
 import matplotlib.pyplot as plt
 try:
     plt.style.use("veux-web")

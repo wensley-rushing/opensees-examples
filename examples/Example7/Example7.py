@@ -17,7 +17,7 @@
 # Date: September 2017
 
 # import the OpenSees Python module
-import opensees.openseespy as ops
+import xara as ops
 
     # ----------------------------
     # Start of model generation

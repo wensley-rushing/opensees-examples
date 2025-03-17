@@ -2,7 +2,7 @@ import sys
 
 import numpy as np
 
-import opensees.openseespy as ops
+import xara as ops
 from opensees.units.iks import ft, ksi
 
 import numpy as np

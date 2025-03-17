@@ -1,5 +1,5 @@
 import sees
-import opensees.openseespy as ops
+import xara as ops
 
 
 def create_model():

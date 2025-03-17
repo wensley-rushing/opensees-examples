@@ -3,7 +3,7 @@ import sys
 import veux
 import pandas as pd
 from shapes import WideFlange
-import opensees.openseespy as ops_
+import xara as ops_
 
 def render_null(model):
     from scipy.linalg import null_space

@@ -1,4 +1,4 @@
-import opensees.openseespy as ops
+import xara as ops
 # --------------------------------------------------------------------------------------------------
 # Example: 1-Story 1-Bay Special Concentric Braced Frame
 # Braces are defined with two force beam-column elements

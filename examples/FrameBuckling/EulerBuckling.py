@@ -1,5 +1,5 @@
 from math import cos,sin,sqrt,pi
-import opensees.openseespy as ops
+import xara as ops
 
 # Effective length factors
 FACTORS = {

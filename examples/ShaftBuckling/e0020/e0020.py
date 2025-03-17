@@ -4,7 +4,7 @@ import sys
 import veux
 import numpy as np
 from veux.motion import Motion
-import opensees.openseespy as ops
+import xara as ops
 import matplotlib.pyplot as plt
 try:
     pass

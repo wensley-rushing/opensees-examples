@@ -13,7 +13,7 @@
 #
 
 import numpy as np
-import opensees.openseespy as ops
+import xara as ops
 import matplotlib.pyplot as plt
 import veux
 

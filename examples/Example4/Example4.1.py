@@ -22,7 +22,7 @@
 # Date: August 2017
 #
 # import the OpenSees Python module
-import opensees.openseespy as ops
+import xara as ops
 import math
 
 # ------------------------------

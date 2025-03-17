@@ -2,7 +2,7 @@ import sys
 import veux
 import numpy as np
 import pandas as pd
-import opensees.openseespy as ops
+import xara as ops
 from steel import Channel, Rectangle
 
 def _test_opensees(section):

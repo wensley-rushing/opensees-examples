@@ -1,4 +1,4 @@
-import opensees.openseespy as ops
+import xara as ops
 
 ops = ops.Model(ndm=2, ndf=2)
 

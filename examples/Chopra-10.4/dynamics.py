@@ -1,6 +1,6 @@
 import numpy as np
 from math import cos,sin,sqrt,pi
-import opensees.openseespy as ops
+import xara as ops
 from opensees.units.iks import gravity
 
 def create_model():

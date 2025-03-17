@@ -1,4 +1,4 @@
-import opensees.openseespy as ops
+import xara as ops
 print("=========================================================")
 print("Start cantilever 2D EQ ground motion with gravity example")
 

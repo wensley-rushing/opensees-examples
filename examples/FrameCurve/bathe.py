@@ -1,6 +1,6 @@
 import veux
 import numpy as np
-import opensees.openseespy as ops
+import xara as ops
 
 
 

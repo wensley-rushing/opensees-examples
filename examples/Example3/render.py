@@ -1,5 +1,5 @@
 import veux
-import opensees.openseespy as ops
+import xara as ops
 from portal import create_portal, gravity_analysis, pushover_analysis
 
 if __name__ == "__main__":

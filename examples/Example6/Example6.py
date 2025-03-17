@@ -10,7 +10,7 @@
 #  free vibration analysis starting from static deflection
 
 # import the OpenSees Python module
-import opensees.openseespy as ops
+import xara as ops
 from opensees.units.english import gravity as g
 
 # ----------------------------
